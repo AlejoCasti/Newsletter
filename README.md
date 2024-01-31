@@ -12,7 +12,7 @@ Se utiliza Javascript junto con un framework Vue js. Desde el front se hizo inte
 
 ### Back
 Con el fin de satisfacer uno de los requerimientos se hace con Python y un framework Django.
-Se utiliza la libreria Rest framework para la creación del Api. Por otro lado se hace integración con AWS SES para el envío de correo pero no da un buen resultado y se termina utilizando una conexión con la direción personal de gmail.
+Se utiliza la libreria Rest framework para la creación del Api. Por otro lado se hace integración con AWS SES para el envío de correo pero no da un buen resultado y se termina utilizando una conexión con la dirección personal de gmail.
 ## :warning: Importante: El correo puede llegar a spam.
 
 Para Base de datos se utiliza postgres con un modelo muy sencillo.
