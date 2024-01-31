@@ -1,6 +1,8 @@
 # Periodico a la mano
 
 En este proyecto se trabaja el envio de periodico por medio de correos electronicos. Desde el administrador se puede crear un periodico, establecer los correos receptores y un archivo adjunto de máximo 10MB (PNG, PDF).
+Tambien se listan los correos y tienen la opción de ser enviados despues de su creación.\n
+Tambien se pueden ver datos básicos como correos enviados, usuarios activos, desuscripciones y tasa de desuscripción.
 
 ## Técnica
 
